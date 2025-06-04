@@ -1,3 +1,8 @@
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/3a5cd792-33a5-4607-beaf-cb65263a7e4a" alt="animated" />
+
+
 <h1 align="center">Hi 👋, I'm Archie Wu</h1>
 <h3 align="center">A Passionate Full Stack Developer from Taiwan</h3>
 
