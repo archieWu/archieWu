@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Archie Wu</h1>
 <h3 align="center">A Passionate Full Stack Developer from Taiwan</h3>
 
-- 📫 How to reach me: 
-  yij1471@gmail.com
+- 📫 You can contact me at [yij1471@gmail.com](mailto:yij1471@gmail.com)
 
 <h2>skills</h2>
 
