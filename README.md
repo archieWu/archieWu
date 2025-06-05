@@ -30,9 +30,11 @@
 <img src="https://img.icons8.com/?size=100&id=54087&format=png" width="48" height="48" alt="nodejs" />
 <img src="https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png" width="48" height="48" alt="express" />
 
-
+<!-- 
 <img src="https://img.icons8.com/?size=100&id=GOHWqwnSE8Sv&format=png" width="48" height="48" alt="docker" />
 <img src="https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png" width="48" height="48" alt="kubernetes" />
+-->
+
 <img src="https://img.icons8.com/?size=100&id=xBKl2pdJg5kk&format=png" width="48" height="48" alt="git" />
 <img src="https://img.icons8.com/?size=100&id=52539&format=png" width="48" height="48" alt="github" />
 
