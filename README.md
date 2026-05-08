@@ -7,6 +7,10 @@
 <h3 align="center">A Passionate Full Stack Developer from Taiwan</h3>
 
 - 📫 You can contact me at [yij1471@gmail.com](mailto:yij1471@gmail.com)
+<p align="left">
+<a href="https://linkedin.com/in/archie-wu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="archie-wu" height="30" width="40" /></a>
+</p>
+
 
 <h2>skills</h2>
 
