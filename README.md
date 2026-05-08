@@ -10,7 +10,7 @@
 
 <h2>skills</h2>
 
-
+<div style="flex">
 <img src="https://img.icons8.com/?size=100&id=20909&format=png" width="48" height="48" alt="html" />
 <img src="https://img.icons8.com/?size=100&id=5cVdiiKKi0vX&format=png" width="48" height="48" alt="css" />
 <img src="https://img.icons8.com/?size=100&id=FnnFuAIw4e8j&format=png" width="48" height="48" alt="tailwind" />
@@ -41,5 +41,6 @@
   
 <img src="https://skillicons.dev/icons?i=vitest,cypress" />
 <img src="https://img.icons8.com/?size=100&id=bp24DwGXJDyT&format=png" width="48" height="48" alt="jest" />
+</div>
 
 
